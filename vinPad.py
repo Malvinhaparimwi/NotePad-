@@ -14,3 +14,5 @@ if __name__ == "__main__":
 
     vinPad = vinpad_window()
     vinPad.show()
+
+    app.exec()
